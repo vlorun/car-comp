@@ -1,0 +1,593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"g_sSitePath"
+			],
+			[
+				"hea",
+				"headAttributes"
+			],
+			[
+				"preg",
+				"preg_match"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/view.php",
+			"settings":
+			{
+				"buffer_size": 554,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/First.controller.php",
+			"settings":
+			{
+				"buffer_size": 703,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/Public.controller.php",
+			"settings":
+			{
+				"buffer_size": 1451,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style/base.css",
+			"settings":
+			{
+				"buffer_size": 770,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/PublicNav.phtml",
+			"settings":
+			{
+				"buffer_size": 348,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/PublicLogin.phtml",
+			"settings":
+			{
+				"buffer_size": 562,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/PublicIndex.phtml",
+			"settings":
+			{
+				"buffer_size": 531,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/viewXhtml.php",
+			"settings":
+			{
+				"buffer_size": 5069,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/PublicBaseHeader.phtml",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/PublicLogin.view.php",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 598,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/PublicIndex.view.php",
+			"settings":
+			{
+				"buffer_size": 2359,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: doc",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/car-comp/style/reset.css",
+		"/C/xampp/htdocs/car-comp/constants.php",
+		"/C/xampp/htdocs/car-comp/.project",
+		"/C/xampp/htdocs/car-comp/.htaccess",
+		"/C/Documents and Settings/KingM/Application Data/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Documents and Settings/KingM/Application Data/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Documents and Settings/KingM/Application Data/Sublime Text 2/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page header",
+			"	\n",
+			"SitePath",
+			"[[SitePath]]",
+			"SitePath",
+			"not found in here bitch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/view.php",
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/First.controller.php",
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/Public.controller.php",
+					"settings":
+					{
+						"buffer_size": 1451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1063,
+								1063
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "style/base.css",
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								770,
+								770
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/templates/PublicNav.phtml",
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/templates/PublicLogin.phtml",
+					"settings":
+					{
+						"buffer_size": 562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/templates/PublicIndex.phtml",
+					"settings":
+					{
+						"buffer_size": 531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/viewXhtml.php",
+					"settings":
+					{
+						"buffer_size": 5069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4591,
+								4592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2160.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/templates/PublicBaseHeader.phtml",
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/views/PublicLogin.view.php",
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								522,
+								515
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/views/PublicIndex.view.php",
+					"settings":
+					{
+						"buffer_size": 2359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 960.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true
+}

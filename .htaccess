@@ -1,0 +1,14 @@
+#this is the main server configuration
+php_flag display_errors on
+php_value error_reporting -1
+php_value include_path ".;C:\xampp\htdocs\car-comp\utilities;C:\xampp\htdocs\car-comp\app\controllers;C:\xampp\htdocs\car-comp\app\views;C:\xampp\htdocs\car-comp\app\templates;C:\xampp\htdocs\car-comp\app\model"
+
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^([a-z0-9-]+)/?$ index.php?a=$1 [L,QSA]
+RewriteRule ^([a-z0-9-]+)/([a-z0-9-_]+)/?$ index.php?a=$1&b=$2 [L,QSA]
+RewriteRule ^([a-z0-9-]+)/([a-z0-9-_]+)/([a-z0-9-_]+)/?$ index.php?a=$1&b=$2&c=$3 [L,QSA]
