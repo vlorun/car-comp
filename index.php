@@ -15,7 +15,7 @@ include_once('constants.php');
 include_once('database/class.MysqlConnection.php');
 
 // create global database connection
-$g_oDb = new MysqlConnection($g_sDBUser,$g_sDBPassword,$g_sDBName);
+//$g_oDb = new MysqlConnection($g_sDBUser,$g_sDBPassword,$g_sDBName);
 
 
 function redirect($p_sUrl) {
